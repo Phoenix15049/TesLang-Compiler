@@ -1,0 +1,15 @@
+D:\ProgrammingProjects\C#Projects\RiderProjects\TesLang-Compiler\bin\Debug\net8.0\TesLang-Compiler.exe
+D:\ProgrammingProjects\C#Projects\RiderProjects\TesLang-Compiler\bin\Debug\net8.0\TesLang-Compiler.deps.json
+D:\ProgrammingProjects\C#Projects\RiderProjects\TesLang-Compiler\bin\Debug\net8.0\TesLang-Compiler.runtimeconfig.json
+D:\ProgrammingProjects\C#Projects\RiderProjects\TesLang-Compiler\bin\Debug\net8.0\TesLang-Compiler.dll
+D:\ProgrammingProjects\C#Projects\RiderProjects\TesLang-Compiler\bin\Debug\net8.0\TesLang-Compiler.pdb
+D:\ProgrammingProjects\C#Projects\RiderProjects\TesLang-Compiler\obj\Debug\net8.0\TesLang-Compiler.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgrammingProjects\C#Projects\RiderProjects\TesLang-Compiler\obj\Debug\net8.0\TesLang-Compiler.AssemblyInfoInputs.cache
+D:\ProgrammingProjects\C#Projects\RiderProjects\TesLang-Compiler\obj\Debug\net8.0\TesLang-Compiler.AssemblyInfo.cs
+D:\ProgrammingProjects\C#Projects\RiderProjects\TesLang-Compiler\obj\Debug\net8.0\TesLang-Compiler.csproj.CoreCompileInputs.cache
+D:\ProgrammingProjects\C#Projects\RiderProjects\TesLang-Compiler\obj\Debug\net8.0\TesLang-Compiler.sourcelink.json
+D:\ProgrammingProjects\C#Projects\RiderProjects\TesLang-Compiler\obj\Debug\net8.0\TesLang-Compiler.dll
+D:\ProgrammingProjects\C#Projects\RiderProjects\TesLang-Compiler\obj\Debug\net8.0\refint\TesLang-Compiler.dll
+D:\ProgrammingProjects\C#Projects\RiderProjects\TesLang-Compiler\obj\Debug\net8.0\TesLang-Compiler.pdb
+D:\ProgrammingProjects\C#Projects\RiderProjects\TesLang-Compiler\obj\Debug\net8.0\TesLang-Compiler.genruntimeconfig.cache
+D:\ProgrammingProjects\C#Projects\RiderProjects\TesLang-Compiler\obj\Debug\net8.0\ref\TesLang-Compiler.dll
